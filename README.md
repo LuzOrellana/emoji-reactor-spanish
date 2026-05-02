@@ -1,5 +1,5 @@
 ````markdown
-# 🐱 Scuba Cat Hand Tracker (Emoji Reactor)
+# 😃(Emoji Reactor)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0-green?style=for-the-badge&logo=opencv)
