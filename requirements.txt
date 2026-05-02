@@ -1,0 +1,11 @@
+# Motor Base
+numpy==1.26.4
+mediapipe==0.10.9
+
+# Visão Computacional e Renderização
+opencv-python==4.8.0.76
+Pillow==12.2.0
+
+# Dependencias auxiliares (Blindadas contra quebras de C++)
+matplotlib==3.8.2
+kiwisolver
