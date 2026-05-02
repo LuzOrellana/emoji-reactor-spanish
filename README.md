@@ -93,8 +93,8 @@ py --list
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AoyaguiLabs/scuba-cat-hand-tracker.git
-cd scuba-cat-hand-tracker
+git clone https://github.com/AoyaguiLabs/emoji-reactor.git
+cd emoji-reactor
 ```
 
 ### 2. Create virtual environment (Python 3.10)
