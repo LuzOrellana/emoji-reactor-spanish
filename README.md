@@ -171,8 +171,6 @@ Now it's open for anyone to use and build on.
 ## 👤 Author
 
 **Guilherme Aoyagui**
-
-* 💼 LinkedIn: *(add your link)*
 * 🚀 Focus: Computer Vision • Automation • AI Systems
 
 ---
